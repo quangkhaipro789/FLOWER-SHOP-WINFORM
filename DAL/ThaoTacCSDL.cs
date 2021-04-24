@@ -16,7 +16,7 @@ namespace DAL
 
         {
 
-            GetConnection = new SqlConnection("Data Source=DESKTOP-B7S74DC;Initial Catalog=QLBHGIFT;Integrated Security=True");
+            GetConnection = new SqlConnection("Data Source=DESKTOP-E754EJE\\SQLEXPRESS;Initial Catalog=QLBHGIFT;Integrated Security=True");
 
             GetConnection.Open();
 
@@ -86,6 +86,21 @@ namespace DAL
 
         }
 
+        public DataTable SQL_LayDuLieuByMa(string tensp, string[] name, object[] value, int Npara)
+        {
+            KetnoiCSDL();
+            SqlCommand command = new SqlCommand(tensp, GetConnection);
+            command.CommandType = CommandType.StoredProcedure;
+            for (int i = 0; i < Npara; i++)
+            {
+                command.Parameters.AddWithValue(name[i], value[i]);
+            }
+            SqlDataAdapter adap = new SqlDataAdapter(command);
+            DataTable dt = new DataTable();
+            adap.Fill(dt);
+            NgatKetNoi();
+            return dt;
+        }
     }
 
 }

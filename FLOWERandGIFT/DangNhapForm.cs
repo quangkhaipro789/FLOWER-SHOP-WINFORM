@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BLL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,6 +13,7 @@ namespace FLOWERandGIFT
 {
     public partial class DangNhapForm : Form
     {
+        BLL_TaiKhoan bll = new BLL_TaiKhoan();
         public DangNhapForm()
         {
             InitializeComponent();
@@ -19,8 +21,7 @@ namespace FLOWERandGIFT
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            var isMatch = true;
-            if (true)
+            if (bll.KiemTraTaiKhoan(txtUser.Text, txtPass.Text))
             {
                 // đoạn ni tạm thời t cho true để nó pass qua mở form main lên, vài bưa m thêm code thì thêm vô
                 // đoạn true bằng code check user name và password

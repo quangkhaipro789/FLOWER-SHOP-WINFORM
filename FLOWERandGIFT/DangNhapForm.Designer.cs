@@ -103,6 +103,7 @@ namespace FLOWERandGIFT
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtUser);
             this.Name = "DangNhapForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "DangNhapForm";
             this.ResumeLayout(false);
             this.PerformLayout();
