@@ -1,0 +1,14 @@
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\bin\Debug\FLOWERandGIFT.exe.config
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\bin\Debug\FLOWERandGIFT.exe
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\bin\Debug\FLOWERandGIFT.pdb
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\bin\Debug\BLL.dll
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\bin\Debug\BLL.pdb
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\obj\Debug\FLOWERandGIFT.csprojAssemblyReference.cache
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\obj\Debug\FLOWERandGIFT.Properties.Resources.resources
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\obj\Debug\FLOWERandGIFT.csproj.GenerateResource.cache
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\obj\Debug\FLOWERandGIFT.csproj.CoreCompileInputs.cache
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\obj\Debug\FLOWERandGIFT.csproj.CopyComplete
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\obj\Debug\FLOWERandGIFT.exe
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\obj\Debug\FLOWERandGIFT.pdb
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\obj\Debug\FLOWERandGIFT.frmMain.resources
+C:\Users\QuangKhaiPC\source\repos\FLOWERandGIFT\FLOWERandGIFT\obj\Debug\FLOWERandGIFT.DangNhapForm.resources
